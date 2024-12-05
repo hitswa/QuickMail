@@ -33,4 +33,4 @@ python QuickMail.py
 pyinstaller QuickMail.py
 ```
 
-You can use [sample.xml](sample.xml) to create bulk mailing content and then upload it to desktop application and proceed.
+You can use [sample.xlsx](sample.xlsx) to create bulk mailing content and then upload it to desktop application and proceed.
